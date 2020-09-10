@@ -10,6 +10,7 @@ Currently includes:
 # [GrapheneOS](https://github.com/grapheneos)
 # [#!os (Hashbang OS)](https://github.com/hashbang/os)
 # [RattlesnakeOS](https://github.com/RattlesnakeOS)
+# [Robotnix](https://github.com/danielfullmer/robotnix)
 
 The aim is to share any repos with the same type of changes, even if we end up making further changes on top.
 
