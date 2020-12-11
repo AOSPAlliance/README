@@ -7,7 +7,6 @@ Chat: IRC Channel [#AOSPAlliance](https://webchat.freenode.net/#AOSPAlliance) on
 Currently includes:
 # 
 # [CalyxOS](https://gitlab.com/calyxos)
-# [GrapheneOS](https://github.com/grapheneos)
 # [#!os (Hashbang OS)](https://github.com/hashbang/os)
 # [RattlesnakeOS](https://github.com/RattlesnakeOS)
 # [Robotnix](https://github.com/danielfullmer/robotnix)
